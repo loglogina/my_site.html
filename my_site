@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Моя перша сторінка</title>
+</head>
+<body text="black" link="blue" alink="aqua" vlink="purple">
+
+    <h1 style="color: green; text-align: center;">
+        <marquee><b>Моя перша сторінка</b></marquee>
+    </h1>
+
+    <center>
+        <table bgcolor="lightyellow" border="1" width="400">
+            <tr>
+                <td>
+                    <h2 align="center" valign="top" style="color: red;">Зміст</h2>
+                    <h3 align="center"><a href="file:///C:/HomeWork/site1.html" target="_blank"><b>Про мене</b></a></h3>
+                    <h3 align="center"><a href="#Адреса і телефон"><b>Адреса і телефон</b></a></h3>
+                    <h3 align="center"><a href="#Мої друзі"><b>Мої друзі</b></a></h3>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+   
+    <h3 align="center" id="Адреса і телефон" style="color: red;"><b>Адреса і телефон</b></h3>
+    <p align="left" style="color: black; font-size: 16px;">
+        Моя Українська адреса : м. Дніпро, вул. Карло Лібнехта 61<br>
+        Мій телефон: +380 99 123 45 67
+    </p>
+
+    <h2 align="center" id="Мої друзі" style="color: red;"><b>Мої друзі</b></h2>
+    <p align="left" style="color: black; font-size: 16px;">
+        Мої друзі — це Ваня, Аня. Я знаю їх багато років.
+    </p>
+
+    <center>
+        <table bgcolor="lightyellow" border="1" width="400">
+            <tr>
+                <th>Ім'я</th>
+                <th>Телефон</th>
+                <th>Адреса</th>
+            </tr>
+            <tr>
+                <td>Ваня</td>
+                <td>+380 66 555 55 55</td>
+                <td>м. Дніпро, вул. Дружби</td>
+            </tr>
+            <tr>
+                <td>Аня</td>
+                <td>+380 97 444 44 44</td>
+                <td>м. Дніпро, вул. Свободи</td>
+            </tr>
+        </table>
+    </center>
+
+    <!-- Додавання зображення -->
+    <center>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c-Em85eCA4n9c4zs3KleL4GmOOUPYYJqOQ&s" target="_blank" alt="Малюнок" width="300">
+        <br>
+        <a href="file:///C:/HomeWork/site2.html" target="_blank">Головна</a>
+    </center>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+</html>
